@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SF._8_FINAL.TASK3
+namespace M8_3
 {
     class Program
     {
